@@ -6,3 +6,4 @@ print 'hello, world!'
 print 'Hi copenhackers!'
 import os; print(os.environ)
 print 'Microsoft!'
+print '"/nprint 'we'
